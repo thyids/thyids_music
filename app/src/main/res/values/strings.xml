@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">免费音乐</string>
+    <string name="search_hint">搜索歌曲</string>
+    <string name="no_results">未找到歌曲，请尝试其他关键词</string>
+    <string name="back_to_list">返回列表</string>
+    <string name="play">播放</string>
+    <string name="pause">暂停</string>
+    <string name="previous">上一首</string>
+    <string name="next">下一首</string>
+    <string name="playback_error">无法获取播放链接</string>
+</resources>
